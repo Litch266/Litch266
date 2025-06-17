@@ -14,3 +14,20 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<div align="center">
+  
+# 🚀 Hello, I'm [AldiP]! 
+
+**Frontend Developer** | **HTML** • **CSS** • **JavaScript**  |
+
+📫 **Email:** [Aldipratama1@gmail.com]  
+
+</div>
+
+---
+
+### 🛠 **Tech Stack**  
+```diff
++ HTML5       - Semantic & Accessible
++ CSS3        - Flexbox, Grid, Animations
++ JavaScript  - ES6+, DOM, Fetch API
