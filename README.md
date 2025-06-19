@@ -1,33 +1,14 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm <span style="color:#3F8EF7;">AllDev</span> 👋</h1>
 
-<!--
-**Litch266/Litch266** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<div align="center">
-  
-# 🚀 Hello, I'm [AldiP]! 
-
-**Frontend Developer** | **HTML** • **CSS** • **JavaScript**  |
-
-📫 **Email:** [Aldipratama1@gmail.com]  
-
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=3F8EF7&center=true&vCenter=true&width=435&lines=Front-End+Web+Developer;Creative+Problem+Solver;Lifelong+Learner;Building+Cool+Web+Stuff" alt="Typing SVG" />
+</p>
 
 ---
 
-### 🛠 **Tech Stack**  
-```diff
-+ HTML5       - Semantic & Accessible
-+ CSS3        - Flexbox, Grid, Animations
-+ JavaScript  - ES6+, DOM, Fetch API
+## 🚀 About Me
+```bash
+💻 Languages : HTML | CSS | JavaScript | Python
+🛠️ Tools    : VSCode | Git | GitHub | Figma
+🎯 Focus    : Front-End Development & UI Design
+🌱 Learning : React.js | API Integration
